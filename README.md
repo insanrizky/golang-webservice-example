@@ -18,12 +18,12 @@ $ go get golang.org/x/crypto/bcrypt
 
 ## 2. Install Project
 ```sh
-go install github.com/yourusername/golang-webservice-example
+$ go install github.com/yourusername/golang-webservice-example
 ```
 
 ## 3. Run Project
 ```sh
-$GOPATH/bin/golang-webservice-example
+$ $GOPATH/bin/golang-webservice-example
 ```
 
 Hope it useful!
