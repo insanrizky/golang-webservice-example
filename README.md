@@ -7,11 +7,13 @@ Open `db` directory then `import` `golang.sql` into your database.
 
 ## 2. Install Dependencies
 ### github.com/go-sql-driver/mysql
+it is used for connecting go with mysql database (driver)
 ```sh
 $ go get github.com/go-sql-driver/mysql
 ```
 
 ### golang.org/x/crypto/bcrypt
+it is used for encrypt password using bcrypt algorithm
 ```sh
 $ go get golang.org/x/crypto/bcrypt
 ```
