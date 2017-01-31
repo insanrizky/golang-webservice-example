@@ -6,12 +6,12 @@ Create own web server and mini service with [GoLang](http://golang.org)
 Open `db` directory then `import` `golang.sql` into your database.
 
 ## 2. Install Dependencies
-# github.com/go-sql-driver/mysql
+### github.com/go-sql-driver/mysql
 ```sh
 $ go get github.com/go-sql-driver/mysql
 ```
 
-# golang.org/x/crypto/bcrypt
+### golang.org/x/crypto/bcrypt
 ```sh
 $ go get golang.org/x/crypto/bcrypt
 ```
